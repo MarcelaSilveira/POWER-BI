@@ -1,0 +1,7 @@
+O QUE É PBIX?
+
+Pbix é uma extensão de arquivo usada pelo Microsoft Power BI, uma ferramenta de inteligência empresarial e visualização de dados. A extensão ".pbix" representa um arquivo do Power BI, e ele representa um arquivo do Power BI Desktop.
+
+Um arquivo Pbix contém todas as informações necessárias para criar um relatório ou painel do Power BI. Isso inclui conexões de dados, modelos de dados, consultas, cálculos, visualizações e outras configurações. Os arquivos Pbix podem ser criados e editados usando o Power BI Desktop, que é um aplicativo para Windows fornecido pela Microsoft.
+
+O Power BI Desktop permite que os usuários se conectem a várias fontes de dados, transformem e modelem os dados, definam relacionamentos entre tabelas e criem visualizações e relatórios interativos.
