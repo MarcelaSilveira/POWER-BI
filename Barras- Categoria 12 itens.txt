@@ -1,0 +1,21 @@
+*Barras- Categoria 12 itens
+Eixo Y- Categoria (textos)
+Eixo X- Valores 
+
+
+
+*Planos Vendidos por cidade e total Mensal
+______________________________________________
+*grafico de Colunas e linhas- Maximo 7 colunas
+Eixo X- Categoria (Texto)
+Eixo Y- Valores
+
+
+
+Grafico de pizza (perCentual)
+2 a 5 no maximo ( vizualizações)
+
+
+* Para fazer um grafico de vendas  e metas, usa o grafico de KPI e tb usa o de segmentação de dados e coloca vendedor no campo .
+
+
